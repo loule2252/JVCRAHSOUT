@@ -1,0 +1,55 @@
+    aside, div#bloc1 {
+    width: 85%;
+    height: 1480px;
+    background-color: rgba(0,0,0,0.75);
+    float: right;
+    margin-Right: 6.5%; 
+    margin-top:30px;
+    }
+/*Tableau*/
+     table {
+    width: 80%;
+    height:600px;
+    
+    
+
+    /* Coller les cellules */
+    /* border-collapse: collapse; */
+
+    /* Espace entre les cellules*/
+    border-spacing:3px;
+
+    /*Centrer le tableau sur la page*/
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+
+    /* Arrondir les coins*/
+    border-radius:10px;
+    
+    background-color: #AAAAAA;
+    border: black solid 3px;
+}
+
+Td{border: black solid 3px
+}
+
+.image{width: 70%;
+      margin-left:15%;
+      
+    }
+    .trente {width:33%;
+       }
+    .Black {background-color:Black ;
+       }
+.center {
+      margin-left: 8%;
+    }
+
+.table2 {
+      height: 500px;
+    }
+.double  {
+      width: 75%;
+    }  
+/*Fin tableau*/    

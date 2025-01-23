@@ -1,0 +1,65 @@
+    aside, div#bloc1 {
+    width: 85%;
+    height: 5450px;
+    background-color: rgba(0,0,0,0.75);
+    float: right;
+    margin-Right: 6.5%; 
+    margin-top:30px;
+    }
+    /*Tableau*/
+    table {
+    width: 80%;
+    height:80%;
+    
+    
+
+    /* Coller les cellules */
+    /* border-collapse: collapse; */
+
+    /* Espace entre les cellules*/
+    border-spacing:3px;
+
+    /*Centrer le tableau sur la page*/
+    margin-left: auto;
+    margin-right: auto;
+
+    /* Arrondir les coins*/
+    border-radius:10px;
+    
+    background-color: rgba(0,0,0,0.75);
+    border: white solid 1px
+}
+
+Td{border: white solid 1px
+}
+
+.titre {height: 50px;
+       text-align: center;
+       font-size: 50px;
+       font-weight: bold;
+}
+
+.nom {width: 15%;
+       text-align: center;
+       font-size: 20px;
+       font-weight: bold;
+}
+/*Colonne identité*/
+.identite {width: 30%;
+       font-size: 20px;
+}
+/*Colonne preuve*/
+.preuve {width: 20%;
+       font-size: 20px;
+       }
+/*Colonne Force/faiblesse*/       
+.force {width: 40%;
+       font-size: 18px;
+       height: 100px;
+       }
+
+.center {text-align: center;
+        font-size: 20px;
+        font-weight: bold;
+        height: 20px;
+}

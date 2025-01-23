@@ -1,0 +1,45 @@
+ aside, div#bloc1 {
+    width: 80%;
+    height: 800px;
+    background-color: rgba(0,0,0,0.75);
+    float: right;
+    margin-Right:10%; 
+    margin-top:30px;
+    }
+ /*Formulaire*/
+fieldset {
+    background-color: Black;
+    width: 70%;
+    border: 4px double white;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px
+}
+/*Formulaire*/
+legend{
+    text-align: center;
+    color: whitesmoke;
+    font-weight:Bold;
+    background-color: #000000;
+    border: 4px whitesmoke double;
+    padding: 4px;
+    width: 40%;
+}
+/*Formulaire*/
+label {
+    float: left;
+    width: 200px;
+    margin-right: 100px;
+    text-align: right;
+    font-weight: bold;
+}
+/*Formulaire*/
+textArea {
+    width: 100%;
+}
+
+.end {
+width: 30%;
+margin-left:14%;
+}
